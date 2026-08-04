@@ -1,0 +1,36 @@
+# Manual Testing Project – SauceDemo
+
+## Project Overview
+This repository contains a complete Manual Testing project for the SauceDemo web application.
+
+## Website
+https://www.saucedemo.com/
+
+## Scope
+- Login
+- Products
+- Shopping Cart
+- Checkout
+- Logout
+
+## Testing Types
+- Functional Testing
+- Smoke Testing
+- Regression Testing
+- Positive Testing
+- Negative Testing
+
+## Test Deliverables
+- Test Plan
+- Test Cases
+- Bug Reports
+- Test Summary Report
+
+## Tools
+- Microsoft Excel
+- Microsoft Word
+- GitHub
+
+## Tested By
+Saad Kamal Shalan
+Junior Software QA Engineer
