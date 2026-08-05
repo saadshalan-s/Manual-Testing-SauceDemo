@@ -1,36 +1,62 @@
-# Manual Testing Project – SauceDemo
+# SauceDemo Manual Testing Project
 
-## Project Overview
+## Overview
+
 This repository contains a complete Manual Testing project for the SauceDemo web application.
 
-## Website
-https://www.saucedemo.com/
+## Application Under Test
 
-## Scope
-- Login
-- Products
+Website: https://www.saucedemo.com/
+
+## Project Scope
+
+- Login Module
+- Products Module
 - Shopping Cart
-- Checkout
+- Checkout Process
 - Logout
 
 ## Testing Types
+
 - Functional Testing
 - Smoke Testing
 - Regression Testing
 - Positive Testing
 - Negative Testing
 
-## Test Deliverables
+## Test Artifacts
+
 - Test Plan
-- Test Cases
-- Bug Reports
+- Login Test Cases
+- Products Test Cases
+- Cart Test Cases
+- Checkout Test Cases
+- Bug Report
 - Test Summary Report
 
-## Tools
+## Tools Used
+
 - Microsoft Excel
 - Microsoft Word
 - GitHub
+- Google Chrome
 
-## Tested By
+## Project Structure
+
+Manual-Testing-SauceDemo
+├── README.md
+├── Test_Plan.md
+├── Login_Test_Cases.md
+├── Products_Test_Cases.md
+├── Cart_Test_Cases.md
+├── Checkout_Test_Cases.md
+├── Bug_Report.md
+├── Test_Summary_Report.md
+└── Screenshots/
+## Tester
+
 Saad Kamal Shalan
+
 Junior Software QA Engineer
+
+ISTQB CTFL Certified
